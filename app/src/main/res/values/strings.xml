@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherTrack</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="next">Next</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="navi_item_one">测试1</string>
+    <string name="navi_item_two">测试2</string>
+    <string name="navi_header_text_one">测试1</string>
+    <string name="temperature">温度：</string>
+    <string name="weather_now">天气：</string>
+    <string name="wind">风力：</string>
+    <string name="last_update">最后更新：</string>
+    <string name="placeholder"> </string>
+    <string name="update">更新</string>
+    <string name="degree">度</string>
+    <string name="wind_scale">级</string>
+    <string name="wind_direction">风，</string>
+</resources>

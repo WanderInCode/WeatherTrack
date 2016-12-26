@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navi_item_one">测试1</string>
+    <string name="navi_item_two">测试2</string>
+</resources>
